@@ -1,4 +1,4 @@
-# RBE500 ROS Project
+# RBE500 ROS Project (built in a team of 3)
 - Put part1, part2 and part3 packages in the catkin_ws/src folder
 - Only push the package and not your devel, log, and build folders from catkin_ws (since these are different for each computer). Ideally the .gitignore should prevent this from happening by default when you do a git add.
 
